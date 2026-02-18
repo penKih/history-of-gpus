@@ -1,0 +1,4 @@
+
+html { scroll-behavior: smooth; }
+body { font-family: Arial; background:#0f2027; color:white; }
+nav a { color:#00c6ff; margin:10px; text-decoration:none; }
